@@ -1,0 +1,22 @@
+{
+  "name": "my-name-hmml",
+  "version": "1.0.0",
+  "description": "San kyi tar par",
+  "main": "index.js",
+  "scripts": {
+    "test": "my-name-hmml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hnin-lwin16/my-name-hmml.git"
+  },
+  "keywords": [
+    "my-name-hmml"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hnin-lwin16/my-name-hmml/issues"
+  },
+  "homepage": "https://github.com/Hnin-lwin16/my-name-hmml#readme"
+}
